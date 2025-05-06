@@ -1,0 +1,20 @@
+
+body{
+  align-items: center;
+  justify-content: center;
+}
+.input{
+  width: 100%;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgb(3, 93, 63);
+  font-size: 2em;
+}
+.input input{
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgb(3, 93, 63);
+  border: none;
+  font-size: large;
+
+}
